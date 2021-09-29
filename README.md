@@ -1,4 +1,4 @@
-# npm install çokomelli ^.^
+# npm install ^.^
 # Mav3rick Records Vue CLI [VueJS, Vue Router, Vuelidate, Vuex, Axios]
 
 > Mav3rick for the all newbie artists.
