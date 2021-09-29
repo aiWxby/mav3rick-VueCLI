@@ -1,6 +1,7 @@
-# mav3rick-demo-community
+# npm install çokomelli ^.^
+# Mav3rick Records Vue CLI [VueJS, Vue Router, Vuelidate, Vuex, Axios]
 
-> Mav3rick for the all newbie artists
+> Mav3rick for the all newbie artists.
 
 ## Build Setup
 
@@ -16,4 +17,3 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# npm install ^.^
