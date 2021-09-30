@@ -14,8 +14,7 @@ export const store = new Vuex.Store({
       UserID: null
     },
     checkUsername: null,
-    checkPassword: null,
-    APIKey: "AIzaSyA9nLdI2vIfde1TKc7hyQHTPSHNsnofzbE"
+    checkPassword: null
   },
   getters:{
     checkAuth(state){
